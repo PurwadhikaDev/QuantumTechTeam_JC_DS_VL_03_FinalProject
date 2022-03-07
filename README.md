@@ -52,7 +52,6 @@ QuantumTech team contributors:
 
    Setelah kami mempelajari dataset ini, untuk menentukan harga pasaran / market value dalam model, berikut prosesnya
       - Kami membagi properti berdasarkan jumlah data tipe katagori properti nya (6 tipe kategori properti). (Jumlah data : 581,456 dengan persebaran data, Single family: 79.39 %, multi family: 7.67%, mixed use: 2.47%, commercial: 2.41% , industry: 0.74% dan vacant land: 7.67%). 
-        Kami membagi berdasarkan data berdasarkan kategorinya dikarenakan rentang data yang terlalu besar sehingga nanti akan diperoleh 6 model regressi.
       - Kemudian kami mengelompokkan variable dan karateristik dari properti yang akan ditentukan berdasarkan domain knowledge dan laporan OPA assessment
       - Kemudian kami melakukan modelling secara regressi untuk menentukan prediksi harga pasaran / market value
 
